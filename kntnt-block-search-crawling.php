@@ -3,9 +3,9 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Kntnt Search robots.txt
- * Plugin URI:        https://www.kntnt.com/
+ * Plugin URI:        https://github.com/Kntnt/kntnt-block-search-crawling
  * Description:       Blocks nice bots from crawling search pages.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
